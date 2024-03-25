@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latteliem, Co-Founder of Nex AI
 - 📫 How to reach me - jonathan@nexai.app
-- I'm always building something interesting.
+- I'm always building something interesting, connect with me on LinkedIn!
 
 <!---
 latteliem/latteliem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
