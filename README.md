@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @latteliem, Co-Founder & CEO of Nex AI
+- 👋 Hi, I’m @latteliem, CEO of Nex
+- Currently writing a paper.
 - 📫 How to reach me - jonathan@nexai.app
 - I'm always building something interesting, connect with me on LinkedIn!
 
