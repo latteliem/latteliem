@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latteliem, CEO of Nex
-- Currently writing a paper.
-- 📫 How to reach me - jonathan@nexai.app
+- Currently writing a paper for Inflect
+- 📫 How to reach me - jon@useinflect.ai
 - I'm always building something interesting, connect with me on LinkedIn!
 
 
