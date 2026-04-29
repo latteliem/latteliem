@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @latteliem, CEO of Nex now working on Inflect.
 - Currently writing a paper for Inflect
 - 📫 How to reach me - jon@useinflect.ai
-- I'm always building something interesting, connect with me on LinkedIn!
+- I'm always building something interesting, latteliem.com
 
 
 <!---
