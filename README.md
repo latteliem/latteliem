@@ -2,9 +2,6 @@
 - Currently writing a paper for Inflect
 - 📫 How to reach me - jon@useinflect.ai
 - If you found this, check out projectcontrarian.com
-- DM for credits
-  
-
 
 <!---
 latteliem/latteliem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
